@@ -43,9 +43,9 @@ Full reference: https://verdict.allthepossibles.com/docs
 
 ## Pricing
 
-- **Bring your own key:** send your Anthropic key in an `x-anthropic-key` header and every call runs on your account. No limit, nothing metered, the key is never stored or logged.
+- **Bring your own key:** send your Anthropic key in an `x-anthropic-key` header and every call runs on your account. No daily cap (20 calls a minute), nothing metered, the key is never stored or logged.
 - **Demo:** two calls a day per caller without a key.
-- **Hosted:** $5/month Basic or $19/month Pro if you would rather not manage a key. Both are in the [Studio Bundle](https://allthepossibles.com).
+- **Hosted:** $5/month Basic or $19/month Pro if you would rather not manage a key.
 
 ## Issues
 
