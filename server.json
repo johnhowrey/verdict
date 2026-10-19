@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.allthepossibles/verdict",
+  "title": "Verdict",
+  "description": "Design review as MCP tools: critique, states, journeys, UI copy, PRD assumptions. BYOK or hosted.",
+  "version": "1.0.0",
+  "websiteUrl": "https://verdict.allthepossibles.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://verdict.allthepossibles.com/mcp"
+    }
+  ]
+}
